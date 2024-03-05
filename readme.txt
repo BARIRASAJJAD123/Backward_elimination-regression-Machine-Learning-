@@ -8,3 +8,4 @@ Currently, our sales forecasting process relies on traditional methods that ofte
 **Objective:**
 The primary objective of this initiative is to develop a predictive model using backward elimination, a technique that iteratively selects the most significant predictor variables while eliminating irrelevant ones. By doing so, we aim to optimize our predictive model's performance and enhance the accuracy of our sales forecasts.
 
+ML advancement,It's a very interesting code, just have a look.
